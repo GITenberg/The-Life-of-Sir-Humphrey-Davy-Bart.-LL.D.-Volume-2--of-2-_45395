@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43264'
     url: http://www.gutenberg.org/2009/agents/43264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45395#The-Life-of-Sir-Humphrey-Davy-Bart.-LL.D.-Volume-2--of-2-
 gutenberg_issued: '2014-04-15'
 gutenberg_type: Text
 identifiers:
