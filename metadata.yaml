@@ -1,0 +1,28 @@
+_repo: The-Life-of-Sir-Humphrey-Davy-Bart.-LL.D.-Volume-2--of-2-_45395
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45395-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Paris, John Ayrton
+    alias: Paris, J. A. (John Ayrton)
+    birthdate: 1785
+    deathdate: 1856
+    gutenberg_agent_id: '43264'
+    url: http://www.gutenberg.org/2009/agents/43264
+description: ''
+gutenberg_issued: '2014-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Davy, Humphry, Sir, 1778-1829'
+- !lcsh 'Chemists -- England -- Biography'
+- !lcc 'QD'
+title: The Life of Sir Humphrey Davy, Bart. LL.D., Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/45395
